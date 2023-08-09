@@ -1,9 +1,12 @@
+app login id & password
+
+ "email": "eve.holt@reqres.in",
+   "password": "cityslicka"
 
 # mymodalview
 login & password
-
- "email": "eve.holt@reqres.in",
-    "password": "cityslicka"
+"email": "eve.holt@reqres.in",
+   "password": "cityslicka"
     
 A new Flutter project.
 
